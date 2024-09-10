@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GamingCharacter
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning Python + C#
-- 📫 How to reach me @zombipixelated on discord
 - 😄 Pronouns: ?
 - ⚡ Fun fact: The rain is the best weather
 
